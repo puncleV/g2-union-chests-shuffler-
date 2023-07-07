@@ -9,7 +9,7 @@
 #include "NpcExtend.cpp"
 #include "ContainerExtend.cpp"
 #include "ShuffleChests.cpp"
-#include "RandomiseWeaponsCommand.cpp"
+#include "RegisterCommands.cpp"
 #include "ConstantsInitializer.cpp"
 #include "Plugin.cpp"
 #pragma endregion
