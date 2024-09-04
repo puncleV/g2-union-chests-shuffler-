@@ -17,6 +17,6 @@ namespace GOTHIC_ENGINE {
 		}
 
 		auto name = item->GetObjectName();
-		return name.HasWordI("ITKE_") || name.HasWordI("LUTERO") || name.HasWordI("SNC_SPEC");
+		return name.HasWordI("ITKE_") || name.HasWordI("LUTERO") || name.HasWordI("SNC_SPEC") || name.HasWordI("ITWR_");
 	}
 }
